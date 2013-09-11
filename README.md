@@ -15,15 +15,13 @@ I'm not a typographer so I've got no clue on font design, If you do then you're 
 
 
 Tree structure:  
-
-/ 				: The merged fonts.
-/sources_he/ 			: The original Hebrew fonts (without change).
-/sources_he_no_latin_gylphs/ 	: The Hebrew fonts ready to be merged after removing non Hebrew glyphs.
-/sources_latin/			: The originals fonts of XBMC's skins (which aren't support Hebrew).
+/ 				: The merged fonts.  
+/sources_he/ 			: The original Hebrew fonts (without change).  
+/sources_he_no_latin_gylphs/ 	: The Hebrew fonts ready to be merged after removing non Hebrew glyphs.  
+/sources_latin/			: The originals fonts of XBMC's skins (which aren't support Hebrew).  
 
 
 Details:  
-
 * OpenSans-Light-xbmc-il = OpenSans-Light + OpenSansHebrew-Light  
 * OpenSans-Regular-xbmc-il = OpenSans-Regular + OpenSansHebrew-Regular  
 * Roboto-Bold-xbmc-il = Roboto-Bold + DroidSansHebrew-Bold  
@@ -31,7 +29,6 @@ Details:
 
 
 Fonts Sources and Info:  
-
 * Droid Sans Hebrew: The fonts source is the Android platform frameworks base, designed by Ascender Corporation commissioned by Google | Apache License, version 2.0 | https://github.com/android/platform_frameworks_base/tree/master/data/fonts .  
 * Open Sans Hebrew:  The fonts source is Google Fonts Early Accessdesigned by Yanek Iontef | Apache License, version 2.0 | http://www.google.com/fonts/earlyaccess .
 * Open Sans: The fonts source is Bello skin created by Nessus85100 and are derivative of the fonts Open Sans designed by Steve Matteson (foundry: Ascender Corporation) | Apache License, version 2.0 | https://github.com/Nessus85100/Bello/tree/master/fonts .  
