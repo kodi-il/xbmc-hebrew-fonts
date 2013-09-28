@@ -1,6 +1,9 @@
 xbmc-hebrew-fonts
 =================
 
+UPDATE:
+I revisited the mereging approach and decided to start working on a new version that will be based on uNiversaI's updated Roboto fonts and will manually copy and adjust the glyphs, hopfully to send a PR before Gotham.  
+
 ---------------------------  
 About
 ---------------------------    
@@ -13,6 +16,10 @@ Merging together Hebrew fonts with the ones that don't include Hebrew glyphs.
   
 I'm not a typographer so I've got no clue on font design, If you do then you're welcome to contribue: pr, open an issue or email to admin-at-xbmc-il.com.  
 
+
+---------------------------  
+Details
+---------------------------    
 
 Tree structure:  
 / 				: The merged fonts.  
